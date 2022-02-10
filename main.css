@@ -84,7 +84,9 @@ h2 {
 .jokebtn:hover {
   background-color: var(--clr-7);
 }
-
+#shimmer{
+display: none;
+}
 #text {
   margin: 2rem;
   padding: 0.9rem;

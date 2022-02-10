@@ -18,5 +18,4 @@ async function getter() {
   loading.style.display = 'none';
   text.style.display = 'block';
 }
-loading.style.display = 'none';
 btn.addEventListener('click', getter);
